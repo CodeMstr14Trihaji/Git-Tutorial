@@ -3,3 +3,5 @@ ini adalah perubahan pertama,
 aku suka makan makanan enak,
 
 tapi aku tidak suka makan-makan
+
+ini baru lagi
